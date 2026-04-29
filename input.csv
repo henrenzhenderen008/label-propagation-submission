@@ -1,0 +1,5 @@
+node_id,initial_label,neighbours
+1,red,"[1,2]"
+2,black,"[1,2,3]"
+3,red,"[2,3,4]"
+4,black,"[3,4]"
